@@ -100,7 +100,7 @@
  
 
 .information p{
-   color: #c4adad;
+   color: #faf4f4;
    margin-left: 20px;
    margin-bottom: 10px;
 
@@ -129,4 +129,5 @@
    margin-left: 30px;
    font-size: 25px;
    margin-top: 10px;
+   color: #4b3b3b;
 }
